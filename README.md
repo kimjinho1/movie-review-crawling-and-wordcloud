@@ -1,5 +1,5 @@
 # movie-review-crawling-and-wordcloud  
-## used website) 
+## website) 
 https://www.imdb.com/title/tt0103064/reviews?ref_=tt_ql_3  
 https://www.imdb.com/title/tt4154756/reviews?ref_=tt_urv  
 
