@@ -1,5 +1,8 @@
 # movie-review-crawling-and-wordcloud  
-## used website: 
+## used website) 
+https://www.imdb.com/title/tt0103064/reviews?ref_=tt_ql_3  
+https://www.imdb.com/title/tt4154756/reviews?ref_=tt_urv  
+
 
 ## 어벤져스: 인피니티 워 (Avengers: Infinity War)  
 ![infinity war](https://user-images.githubusercontent.com/29765855/84463763-af625c00-acad-11ea-9e5b-30d807bf47af.png)  
